@@ -23,7 +23,7 @@ Currently pursuing my **BS in Data Science at UETP**, I enjoy exploring the inte
 
 | 💼 Project | 🔍 Description | 🛠 Tech Stack | 📊 Status |
 |-------------|----------------|---------------|------------|
-| 🌿 **Plant Identification App** | Identifies fruit plants from images | TensorFlow, CNN, Flutter (frontend) | 🧩 *In Future* |
+| 🌿 **Plant Identification App** | Identifies fruit plants from images | TensorFlow, CNN, Flutter (frontend) | 🔮 *Planned / Future Project*|
 | 🐔 **Coccidiosis Prediction** | Detects poultry disease using image-based classification | CNN, TensorFlow, Keras | 🧩 *In Progress* |
 | 🧠 **Insurance Premium Prediction API** | FastAPI-based ML model predicting insurance costs | Python, FastAPI, Docker, Pickle | ✅ *Completed* |
 | 💬 **ChatGPT-like Chatbot** | Custom chatbot trained on CSV data using LLaMA | Python, FastAPI, Hugging Face | ✅ *Completed* |
