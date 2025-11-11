@@ -10,10 +10,10 @@ Currently pursuing my **BS in Data Science at UETP**, I enjoy exploring the inte
 
 ## 🚀 About Me  
 
-- 🎯 Currently learning **Deep Learning, Computer Vision, and Recommender Systems**  
+- 🎯 Currently learning Generative and Agentic AI 
 - 💡 Experienced in **Machine Learning, Data Analysis, SQL, and Visualization (Tableau, Matplotlib, Seaborn)**  
 - 🧠 Completed internships as a **Data Science Intern** and **Machine Learning Intern**  
-- 🛠️ Building projects using **Python, FastAPI, MongoDB, Express, and React**  
+- 🛠️ Building projects using **Python, FastAPI, MongoDB, streamlit,   
 - 🌱 Exploring **AI deployment, model optimization, and mobile integration with Kivy & Flutter**  
 - ✨ Always curious to learn new technologies and collaborate on innovative projects  
 
@@ -23,14 +23,15 @@ Currently pursuing my **BS in Data Science at UETP**, I enjoy exploring the inte
 
 | 💼 Project | 🔍 Description | 🛠 Tech Stack | 📊 Status |
 |-------------|----------------|---------------|------------|
-| 🚗 **Car Price Prediction** | Predicts car prices based on key features using ML regression models | Python, Scikit-learn, Pandas, Streamlit | 🧩 *In Progress* |
-| 🩺 **Diabetes Prediction** | Machine learning model to predict diabetes from health data | Python, Logistic Regression, FastAPI | 🧩 *In Progress* |
+| 🌿 **Plant Identification App** | Identifies fruit plants from images | TensorFlow, CNN, Flutter (frontend) | 🧩 *In Future* |
 | 🐔 **Coccidiosis Prediction** | Detects poultry disease using image-based classification | CNN, TensorFlow, Keras | 🧩 *In Progress* |
 | 🧠 **Insurance Premium Prediction API** | FastAPI-based ML model predicting insurance costs | Python, FastAPI, Docker, Pickle | ✅ *Completed* |
 | 💬 **ChatGPT-like Chatbot** | Custom chatbot trained on CSV data using LLaMA | Python, FastAPI, Hugging Face | ✅ *Completed* |
 | 🌞 **Green Energy Web Platform** | Website for solar energy and electricity services | MongoDB, Express, Node.js, Vercel | ✅ *Completed* |
 | 🔗 **Digital Card Identification (Blockchain)** | Smart contract for digital ID verification | Solidity, OpenZeppelin, Ethereum | ✅ *Completed* |
-| 🌿 **Plant Identification App** | Identifies fruit plants from images | TensorFlow, CNN, Flutter (frontend) | 🧩 *In Progress* |
+| 🩺 **Diabetes Prediction** | Machine learning model to predict diabetes from health data | Python, Logistic Regression, FastAPI | ✅ *Completed* |
+| 🚗 **Car Price Prediction** | Predicts car prices based on key features using ML regression models | Python, Scikit-learn, Pandas, Streamlit | ✅ *Completed* |
+
 
 ---
 
@@ -51,17 +52,17 @@ Tableau • Matplotlib • Seaborn
 **Version Control & Deployment:**  
 Git • GitHub • Docker • Vercel • Hugging Face Spaces  
 
+
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abkhan2004&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abkhan2004&theme=tokyonight" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkhan2004&layout=compact&theme=tokyonight" height="150"/>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-khan367&show_icons=true&locale=en&layout=compact" alt="ab-khan367" /></p>
 
 ---
 
