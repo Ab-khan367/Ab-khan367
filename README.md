@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Muhammad Abdullah (Abkhan)
+# 👋 Hey there! I'm Muhammad Abdullah
 
 🎓 **AI/ML Engineer | Backend Developer**
 
