@@ -1,9 +1,9 @@
 # 👋 Hey there! I'm Muhammad Abdullah (Abkhan)
 
-🎓 **AI/ML Engineer | Data Science Student | Backend Developer**
+🎓 **AI/ML Engineer | Backend Developer**
 
 Welcome to my GitHub!
-I'm an AI/ML Engineer with experience in machine learning, backend development, and generative AI. I enjoy building and deploying end-to-end ML models, developing REST APIs with FastAPI, and integrating LLM-powered features using LangChain, prompt engineering, and RAG techniques. Currently pursuing my **BS in Data Science at UET Peshawar** (CGPA: 3.76, expected 2026).
+I'm an AI/ML Engineer with experience in machine learning, backend development, and generative & agentic AI. I enjoy building and deploying end-to-end ML models, developing REST APIs with FastAPI, and integrating LLM-powered features using LangChain, LangGraph, prompt engineering, and RAG techniques. I hold a **BS in Data Science from UET Peshawar** (CGPA: 3.76).
 
 ---
 
@@ -94,7 +94,7 @@ DVC • MLflow • Git • GitHub • Docker • AWS • Postman (API Testing) �
 ## 🎓 Education
 
 **BS Data Science** — University of Engineering and Technology, Peshawar
-CGPA: 3.76 | 10/2022 – 06/2026
+CGPA: 3.76 | 10/2022 – 2026
 
 **Courses:** Building Generative AI-powered Applications with Python • Machine Learning Specialization (3 courses) • Python for Data Science • Tools for Data Science • Data Science Methodology
 
@@ -102,14 +102,19 @@ CGPA: 3.76 | 10/2022 – 06/2026
 
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-khan367&show_icons=true&locale=en&layout=compact" alt="ab-khan367" /></p>
+<p>
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=ab-khan367&show_icons=true&locale=en" alt="ab-khan367 stats" />
+</p>
+<p>
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ab-khan367&layout=compact&locale=en" alt="ab-khan367 top languages" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-abdullah-ba79b9325" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mabdulpanialvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/abkhan2004"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
